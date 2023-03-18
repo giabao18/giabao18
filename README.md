@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Gia Bao (Jeremy)</h1>
+<h1 align="center">Hi 👋, I'm Gia Bao (Marcus)</h1>
 <h3 align="center">A passionate Web developer from Viet Nam .i'm currently student of International University</h3>
 
 - 🔭 I’m currently working on **IU forum**
