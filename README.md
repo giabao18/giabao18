@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IU forum**
 
-- 🌱 I’m currently learning and practise**ReactJs and Python**
+- 🌱 I’m currently learning and practise **ReactJs and Python**
 
 - 📫 How to reach me **phamgiabao1862001@gmail.com**
 
